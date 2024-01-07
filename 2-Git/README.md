@@ -200,7 +200,7 @@ git checkout [target branch name]
 
 3. Merge the changes from the source branch into the target branch:
 
-```
+w```
 git merge [source branch name]
 ```
 
